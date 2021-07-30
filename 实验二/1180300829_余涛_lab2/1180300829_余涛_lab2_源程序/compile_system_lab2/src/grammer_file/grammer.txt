@@ -1,0 +1,20 @@
+P' -> P
+P -> D P 丨 S P 丨 ε
+D -> D D 丨 proc X id ( M ) { P } 丨 record id { P } 丨 T id A ; 丨 struct id { D } ; 丨 X * id ;
+A -> = F A 丨 , id A 丨 ε
+M -> M , X id 丨 X id
+T -> X C
+X -> int 丨 float 丨 bool 丨 char
+C -> [ num ] C 丨 ε
+S -> MachedS 丨 OpenS
+MachedS -> if ( B ) MachedS else MachedS 丨 L = E ; 丨 L = L ; 丨 do S while ( B ) ; 丨 call id ( Elist ) ; 丨 return E ;
+OpenS -> if ( B ) S 丨 if ( B ) MachedS else Opens
+L -> L [ num ] 丨 id
+E -> E + G 丨 G
+G -> G * F 丨 F
+F -> ( E ) 丨 num 丨 id 丨 real 丨 string
+B -> B || H 丨 H
+H -> H && I 丨 I
+I -> ! I 丨 ( B ) 丨 E Relop E 丨 true 丨 false
+Relop -> < 丨 <= 丨 > 丨 >= 丨 == 丨 !=
+Elist -> Elist , E 丨 E

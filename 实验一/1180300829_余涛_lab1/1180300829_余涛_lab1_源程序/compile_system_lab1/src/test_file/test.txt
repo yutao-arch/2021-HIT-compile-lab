@@ -1,0 +1,33 @@
+int a = 10;
+int b[3][4] = {0};
+
+struct{
+    int c;
+    String d;
+}
+
+int *e;
+
+void find() {
+    int t;
+}
+
+a++;
+if (a <= b[2][2] && b[0][0] == 2){
+    a++;
+}else{
+    a--;
+}
+
+2.2;
+2.3E+3;
+075;
+0x123abc;
+
+int f = b[0][1];
+b[2][1] =20;
+
+while(a > 0){
+    a += 1;
+}
+

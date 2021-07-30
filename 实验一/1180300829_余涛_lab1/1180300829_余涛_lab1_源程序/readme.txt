@@ -1,0 +1,11 @@
+打开compile_system_lab1，然后打开src文件，然后打开ui_design文件，
+直接运行里面的ui类即可运行，然后在弹出的GUI界面中选择文件进行测试，
+可选择测试的文件包括：
+测试标识符和关键字：identify_keyword.txt
+测试运算符：operator.txt
+测试界符：delimiter.txt
+测试常数：constant.txt
+测试注释：annotation.txt
+测试实验课堂验收要求：test.txt
+测试错误信息：errortest.txt
+然后就能在GUI中看到相应结果

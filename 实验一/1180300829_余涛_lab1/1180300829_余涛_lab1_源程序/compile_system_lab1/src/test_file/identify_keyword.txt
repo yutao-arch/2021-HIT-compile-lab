@@ -1,0 +1,13 @@
+int _haha1 = 100;
+float haha_2 = 20.2;
+boolean haha_3 = true;
+declare
+v_emp emp%rowtype;
+if (_haha1 == 100){
+    do{
+        haha_2 += 2;
+    }while(haha_3 == true);
+}else{
+    _haha1 = _haha1 - 1;
+    _haha1++;
+}

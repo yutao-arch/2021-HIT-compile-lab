@@ -1,0 +1,56 @@
+proc main;
+begin
+    integer number1;  // 变量声明
+    real number2;
+
+    proc fuction1;  // 过程声明
+    begin
+        integer[10][10] arr;  // 数组声明
+        integer a;
+        integer b;
+        integer c;
+        integer d;
+        real e;
+        integer m;
+        integer n;
+
+        record
+           real myrecord1;
+           integer myrecord2;
+        end myrecord;  // 记录声明，类似于结构体
+
+        integer x;
+        integer y;
+        integer z;
+        integer z;  // 变量重复声明
+
+        while a < b do  // 循环语句和表达式
+            begin
+                if c < d then  // 分支语句和表达式
+                    begin
+                        x = y + z;
+                    end
+                else
+                    begin
+                        x = y * z;
+                    end
+            end
+        arr[3][5] = 2;  // 数组赋值
+        m = ( m + n ) * 9;  // 表达式及赋值语句
+        e = e + a; // real = real + int , 类型转换
+
+        call a(1, 2+1, a*b);   // 对非过程名使用过程调用操作符
+        error_number1 = 7;  // error_number1变量未经声明就使用
+        a = error_number2;  // error_number2变量未经声明就使用
+        a[0] = 1;  // a非数组变量使用数组访问操作符
+        error_number3[9] = 1;  // error_number3数组变量未经声明就使用
+        a = a + arr; // int = int + array, 运算分量类型不匹配
+    end
+
+    number1 = 1;
+    call fuction1(1, 2+1, a*b);  // 过程调用
+end
+      
+       
+        
+        

@@ -1,0 +1,10 @@
+int k = 90; //test
+//ioio
+int pp = 8;
+/* test1
+* test2
+*/ int kk = 9;
+/*
+lala
+*/
+asd_1

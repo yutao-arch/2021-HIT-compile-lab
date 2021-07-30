@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/all_file/alltest.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/all_file/declaration.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/all_file/do_while.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/all_file/error.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/all_file/expression_and_assignment.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/all_file/if_else_then.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/grammer_analyze/SyntaxParser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/grammer_analyze/Tree.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/semantic/Array.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/semantic/FourAddr.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/semantic/Properties.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/semantic/Smantic.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/semantic/Symbol.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/semantic/util.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

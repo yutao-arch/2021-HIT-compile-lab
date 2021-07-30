@@ -1,0 +1,29 @@
+// 简单变量声明
+int a;
+float b;
+
+// (高维)数组声明
+int[5] c;
+int[3][4] d;
+
+// 结构体声明
+struct mystruct{
+    int e;
+    float f;
+};
+
+// 指针声明
+int *g;
+
+// 记录声明
+record
+     int h;
+myrecord;
+
+// 过程声明
+proc method;
+     int i;
+     i = i + 1;
+
+// 过程调用
+call fuction(q, r, s)

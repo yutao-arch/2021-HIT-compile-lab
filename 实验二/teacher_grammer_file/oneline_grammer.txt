@@ -1,0 +1,57 @@
+Start -> P
+P -> D P
+P -> S P
+P -> ε
+D -> proc X id ( M ) { P }
+D -> record id { P }
+D -> T id A ;
+A -> = F A
+A -> , id A
+A -> ε
+M -> M , X id
+M -> X id
+T -> X C
+X -> int
+X -> float
+X -> bool
+X -> char
+C -> [ num ] C
+C -> ε
+S -> MachedS
+S -> OpenS
+MachedS -> if ( B ) MachedS else MachedS
+MachedS -> L = E ;
+MachedS -> do S while ( B ) ;
+MachedS -> call id ( Elist ) ;
+MachedS -> return E ;
+OpenS -> if ( B ) S
+OpenS -> if ( B ) MachedS else Opens
+L -> L [ num ]
+L -> id
+E -> E + G
+E -> G
+G -> G * F
+G -> F
+F -> ( E )
+F -> num
+F -> id
+F -> real
+F -> string
+F -> float
+B -> B || H
+B -> H
+H -> H && I
+H -> I
+I -> ! I
+I -> ( B )
+I -> E Relop E
+I -> true
+I -> false
+Relop -> <
+Relop -> <=
+Relop -> >
+Relop -> >=
+Relop -> ==
+Relop -> !=
+Elist -> Elist , E
+Elist -> E

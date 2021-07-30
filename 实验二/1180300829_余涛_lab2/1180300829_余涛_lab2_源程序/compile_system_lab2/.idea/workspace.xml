@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="compile_system_lab2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be17c06e-aed2-4ef4-a57f-4bb508c14b5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rjKYGoMKS59wetW2UQ8k8luhXX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lexical_analyze" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\10636\IdeaProjects\compile_system_lab2\src" />
+      <recent name="C:\Users\10636\IdeaProjects\compile_system_lab2\out" />
+      <recent name="C:\Users\10636\IdeaProjects\compile_system_lab2\src\grammer_file" />
+      <recent name="C:\Users\10636\IdeaProjects\compile_system_lab2\src\teacher_grammer_file" />
+      <recent name="C:\Users\10636\IdeaProjects\compile_system_lab2\src\icon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.compile_system_lab2.jar">
+    <configuration name="analyze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grammer_analyze.analyze" />
+      <module name="compile_system_lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="grammer_analyze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build_table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grammer_analyze.build_table" />
+      <module name="compile_system_lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="grammer_analyze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grammer_ui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab2_ui.grammer_ui" />
+      <module name="compile_system_lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab2_ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui_design.ui" />
+      <module name="compile_system_lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui_design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compile_system_lab2.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/compile_system_lab2_jar/compile_system_lab2.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.compile_system_lab2.jar" />
+        <item itemvalue="Application.grammer_ui" />
+        <item itemvalue="Application.build_table" />
+        <item itemvalue="Application.ui" />
+        <item itemvalue="Application.analyze" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be17c06e-aed2-4ef4-a57f-4bb508c14b5d" name="Default Changelist" comment="" />
+      <created>1619484104156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619484104156</updated>
+      <workItem from="1619484107830" duration="86656000" />
+      <workItem from="1620113911656" duration="61238000" />
+      <workItem from="1620459324920" duration="5068000" />
+      <workItem from="1620468073906" duration="1652000" />
+      <workItem from="1620469747657" duration="976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620387797211">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1620387797211" />
+    <state x="886" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1620215352780">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="886" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1620215352780" />
+    <state x="709" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1620472236826">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="709" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.860@0.0.1440.860" timestamp="1620472236826" />
+    <state x="501" y="188" key="FileChooserDialogImpl" timestamp="1620260323163">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="501" y="188" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1620260323163" />
+    <state width="675" height="189" key="GridCell.Tab.0.bottom" timestamp="1620473122077">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="675" height="189" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1620473122077" />
+    <state width="675" height="189" key="GridCell.Tab.0.center" timestamp="1620473122077">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="675" height="189" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1620473122077" />
+    <state width="675" height="189" key="GridCell.Tab.0.left" timestamp="1620473122077">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="675" height="189" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1620473122077" />
+    <state width="675" height="189" key="GridCell.Tab.0.right" timestamp="1620473122077">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="675" height="189" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1620473122077" />
+    <state width="1398" height="276" key="GridCell.Tab.1.bottom" timestamp="1620394711586">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1620394711586" />
+    <state width="1398" height="276" key="GridCell.Tab.1.center" timestamp="1620394711586">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1620394711586" />
+    <state width="1398" height="276" key="GridCell.Tab.1.left" timestamp="1620394711586">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1620394711586" />
+    <state width="1398" height="276" key="GridCell.Tab.1.right" timestamp="1620394711586">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1620394711586" />
+    <state x="522" y="101" width="907" height="656" key="SettingsEditor" timestamp="1620472367188">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="522" y="101" width="907" height="656" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1620472367188" />
+    <state x="811" y="217" key="extract.method.dialog" timestamp="1619676760269">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="811" y="217" key="extract.method.dialog/0.0.1440.860@0.0.1440.860" timestamp="1619676760269" />
+    <state x="86" y="46" key="new project wizard" timestamp="1620260333672">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="86" y="46" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1620260333672" />
+    <state x="738" y="199" key="run.anything.popup" timestamp="1619690074656">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="738" y="199" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1619690074656" />
+    <state x="746" y="183" width="672" height="678" key="search.everywhere.popup" timestamp="1620461782204">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="746" y="183" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1620461782204" />
+  </component>
+</project>

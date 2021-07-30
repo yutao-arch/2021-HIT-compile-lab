@@ -1,0 +1,53 @@
+// 简单变量声明
+int a;
+float b;
+
+// (高维)数组声明
+int[5] c;
+int[3][4] d;
+
+// 结构体声明
+struct mystruct{
+    int e;
+    float f;
+};
+
+// 指针声明
+int *g;
+
+// 记录声明
+record
+     int h;
+myrecord;
+
+// 过程声明
+proc method;
+     int i;
+     i = i + 1;
+
+// 算术表达式
+j = j + 1;
+
+// 关系与逻辑表达式，分支语句
+if k > l and k > 1
+then
+begin
+   k = 2;
+end
+else
+begin
+   k = k + 1;
+end
+
+// 高维数组引用和赋值
+m = n[1][2];
+n[1][2] = m;
+
+// 循环语句
+while o > p do
+begin
+    o = p + 1;
+end
+
+// 过程调用
+call fuction(q, r, s)

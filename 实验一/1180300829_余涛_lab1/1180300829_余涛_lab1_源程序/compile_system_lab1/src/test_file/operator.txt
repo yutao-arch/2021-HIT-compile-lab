@@ -1,0 +1,6 @@
+_haha1 = _haha1 - 1;
+_haha1++;
+if (_haha1 >= 20 || haha_2 > 1){
+      _haha1--;
+      _haha1 += 1;
+}

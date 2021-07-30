@@ -1,0 +1,18 @@
+int a1 = 0xk;
+int a2 = 09;
+float a3 = 1.1.2;
+char a4 = 'd;
+String a5 = "haha;
+int 12_asd = 12;
+'\a'
+'\c'
+"asd"
+"asd\a"
+"asd\c"
+/*
+int a6 = 8;
+a6 = 9;
+a7 = 9;
+{
+ a7 = 20;
+}

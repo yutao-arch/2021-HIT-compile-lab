@@ -1,0 +1,13 @@
+// 算术表达式
+j = j + 1;
+
+// 关系与逻辑表达式，分支语句
+if k > l and k > 1
+then
+begin
+   k = 2;
+end
+else
+begin
+   k = k + 1;
+end

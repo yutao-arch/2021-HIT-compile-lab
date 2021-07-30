@@ -1,0 +1,17 @@
+P' -> P
+P -> D
+P -> S
+S -> S S
+D -> D D 丨 proc id ; D S 丨 T id;
+T -> X C 丨 record D
+X -> integer 丨 real 丨 int
+C -> [ num ] C 丨 ε
+S -> id = E ;丨 L = E ;
+E -> E + E 丨 E * E 丨 -E 丨 (E) 丨 id 丨 num 丨 L
+L -> id [ E ] 丨 L [ E ]
+S -> if B then S丨 if B then S else S丨 while B do S
+B -> B or B 丨 B and B 丨 not B 丨 (B) 丨 E relop E 丨 true 丨 false
+relop -> < 丨 <= 丨 == 丨 != 丨 > 丨 >=
+S -> call id (Elist)
+Elist -> Elist, E
+Elist -> E
